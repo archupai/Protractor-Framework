@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1585284607397' stop='1585284623136'>
+    <name>demo next section protractor</name>
+    <title>demo next section protractor</title>
+    <test-cases>
+        <test-case start='1585284607398' status='passed' stop='1585284615935'>
+            <name>Protractor sample test</name>
+            <title>Protractor sample test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1585284615936' status='passed' stop='1585284619617'>
+            <name>Selecting Radio button</name>
+            <title>Selecting Radio button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1585284619618' status='passed' stop='1585284623133'>
+            <name>Clicking on Submit button</name>
+            <title>Clicking on Submit button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
